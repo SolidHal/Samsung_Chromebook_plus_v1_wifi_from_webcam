@@ -9,7 +9,7 @@ The big difference here is that I used a very tiny usb hub to keep the webcam. W
 Also instead of using a deconstructed USB dongle, I use an internal ar9271 module with antenna plugs
 
 ## Requirements 
-- Soldering Iros
+- Soldering Iron
 - Wifi USB dongle that is supported by the ath9k open source firmware and driver. These ones are reliably found:
   - internal module: VIA VNT9271B6050 USB Embedded Wi Fi EMIO-1533-00A2
   - usb dongle: VNT9271BU0DB 00GO27100BU2B0D0
